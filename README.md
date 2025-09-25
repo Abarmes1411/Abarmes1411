@@ -27,8 +27,8 @@ I adapt quickly, enjoy working side by side with teammates to foster a **positiv
 
 ---
 
-## 📈 GitHub Stats
-![Abarmes' GitHub stats](https://github-readme-stats.vercel.app/api?username=Abarmes1411&show_icons=true&theme=radical)
+## 📈 Most used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abarmes1411&layout=compact&theme=radical)
 
 ---
 
